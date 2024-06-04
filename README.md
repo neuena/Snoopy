@@ -3,6 +3,7 @@
 Projekat za predmet Racunarska grafika, skelet preuzet sa: https://github.com/matf-racunarska-grafika/project_base
 
 Implementirana oblast iz grupe A: frame buffers (inversion)
+
 Implementirana oblast iz grupe B: bloom
 
 
