@@ -2,6 +2,8 @@
 
 Projekat za predmet Racunarska grafika, skelet preuzet sa: https://github.com/matf-racunarska-grafika/project_base
 
+Implementirana oblast iz grupe A: frame buffers
+
 # Uputstvo
 
 1. `git clone https://github.com/neuena/Snoopy.git`
@@ -12,6 +14,8 @@ Projekat za predmet Racunarska grafika, skelet preuzet sa: https://github.com/ma
 # Kontrole
 
 `WASD` - pomeranje kamere
+`E` - inverzija
+`G` - vracanje na normalnu sliku
 
 # Authors
 
