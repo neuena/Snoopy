@@ -2,7 +2,9 @@
 
 Projekat za predmet Racunarska grafika, skelet preuzet sa: https://github.com/matf-racunarska-grafika/project_base
 
-Implementirana oblast iz grupe A: frame buffers
+Implementirana oblast iz grupe A: frame buffers (inversion)
+Implementirana oblast iz grupe B: bloom
+
 
 # Uputstvo
 
@@ -16,6 +18,9 @@ Implementirana oblast iz grupe A: frame buffers
 `WASD` - pomeranje kamere
 `E` - inverzija
 `G` - vracanje na normalnu sliku
+`SPACE` - bloom ukljucivanje i iskljucivanje
+`Q` - smanjivanje exposure
+`Z` - povecavanje exposure
 
 # Authors
 
